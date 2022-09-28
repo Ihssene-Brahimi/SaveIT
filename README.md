@@ -1,7 +1,7 @@
 
 # SaveIT
 
-<img src="https://github.com/MeriemBek/SaveIT/blob/main/SaveIT%20logo%20white%20-03.png" alt="dziribert drawing" width="18%" height="18%" align="right"/>
+<img src="https://github.com/Ihssene-Brahimi/SaveIT/blob/master/SaveIT%20logo%20white%20-03.png" alt="dziribert drawing" width="18%" height="18%" align="right"/>
 
 SaveIT is an automated system developed based on Artificial intelligence and deep learning. The main goal of this artificial protection system is to offer the best supervision on forests against fire, it ensures an early detection of fire and sends a quick alert to the nearest firefighting department. in addition to many added values that will help in resisting wildfires, sensibilizing people to be more aware and getting the necessary precautions while facing these kinds of natural disasters.
 
