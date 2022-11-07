@@ -48,4 +48,7 @@ YOLOv5 and EfficientDet are built up by Pytorch and trained on colab and kaggle 
 - [@Assalaabnk](https://www.github.com/assalaabnk)
 - [@Ihssene-nasa](https://github.com/ihssene-nasa)
 
+## Note
+This work was pulished in the 3rd ACM International Conference on AI in Finance ICAIF 2022 - New York, NY. And in the Africa Research Schowcase Day - Deep Learning Indaba, Tunisia 2022.
+
     
